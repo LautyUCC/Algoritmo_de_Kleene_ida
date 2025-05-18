@@ -1,0 +1,4 @@
+env\Scripts\python main.py
+env\Scripts\python automaton.py
+env\Scripts\python parser.py
+.\env\Scripts\activate
